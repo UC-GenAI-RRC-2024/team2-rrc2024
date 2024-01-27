@@ -1,0 +1,112 @@
+{"Name_Of_Disease": "Diphtheria", "Type_Of_Microorganism": "Bacteria (Corynebacterium diphtheriae)", "Human_Only": "true", "Area_Of_Origin": "Nigeria", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Carbon Monoxide Poisoning", "Type_Of_Microorganism": "Chemical", "Human_Only": "true", "Area_Of_Origin": "Algeria", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease":"COVID-19", "Type_Of_Microorganism":"Virus(SARS-CoV-2)", "Human_Only":"true", "Area_Of_Origin":"Bangladesh", "Type_Of_Outbreak":"Limited"}
+{"Name_Of_Disease": "Toad Poisoning", "Type_Of_Microorganism": "Chemical (bufotoxin)", "Human_Only": "false", "Area_Of_Origin": "Global", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Yellow Fever", "Type_Of_Microorganism": "Virus (Flavivirus)", "Human_Only": "true", "Area_Of_Origin": "South Sudan", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Norovirus", "Type_Of_Microorganism": "Virus (RNA)", "Human_Only": "false", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Malaria", "Type_Of_Microorganism": "Protozoa (Plasmodium spp.)", "Human_Only": "true", "Area_Of_Origin": "Argentina", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease":"Lassa Fever", "Type_Of_Microorganism":"Bacteria (Rodenticulous)", "Human_Only":"true", "Area_Of_Origin":"West Africa", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Unknown", "Type_Of_Microorganism": "Unclassified", "Human_Only": "false", "Area_Of_Origin": "Jordan", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Salmonellosis", "Type_Of_Microorganism": "Bacteria (Salmonella enterica)", "Human_Only": "false", "Area_Of_Origin": "Emilia-Romagna, Italy", "Type_Of_Outbreak": "Endemic"}
+{"Name_Of_Disease":"E. COLI EHEC", "Type_Of_Microorganism":"Bacteria(EHEC)", "Human_Only":"true", "Area_Of_Origin":"USA(Michigan, New York)", "Type_Of_Outbreak":"Limited"}
+{"Name_Of_Disease": "Western Equine Encephalitis (WEE)", "Type_Of_Microorganism": "Virus(S)", "Human_Only": "false", "Area_Of_Origin": "Argentina", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Salmonella Typhimurium", "Type_Of_Microorganism": "Bacteria (Gram-negative)", "Human_Only": "false", "Area_Of_Origin": "Wales, UK", "Type_Of_Outbreak": "Community/Foodborne" }
+{"Name_Of_Disease": "Squirrel Pox", "Type_Of_Microorganism": "Parapoxvirus", "Human_Only": "false", "Area_Of_Origin": "Eastern North America" }
+{ "Name_Of_Disease": "Rabies", "Type_Of_Microorganism": "Virus(Rhabdovirus)", "Human_Only": "false", "Area_Of_Origin": "New York, United States", "Type_Of_Outbreak": "Multiple" }
+{"Name_Of_Disease": "Oropouche virus", "Type_Of_Microorganism": "Virus (Flaviviridae)", "Human_Only": "false", "Area_Of_Origin": "Amazon Basin, Trinidad and Tobago", "Type_Of_Outbreak": "Sporadic"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus (RNA)", "Human_Only": "true", "Area_Of_Origin": "Portugal", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Undiagnosed deaths of cattle in Mozambique", "Type_Of_Microorganism": "Bacteria (unspecified)", "Human_Only": "false", "Area_Of_Origin": "Mozambique", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Hepatitis A", "Type_Of_Microorganism": "Virus (HAV)", "Human_Only": "true", "Area_Of_Origin": "Gaza Strip", "Type_Of_Outbreak": "Limited"}
+{ "Name_Of_Disease" : "Rabies", "Type_Of_Microorganism" : "Virus(Rhabdovirus)", "Human_Only" : "false", "Area_Of_Origin" : "United States", "Type_Of_Outbreak" : "Epizootic" }
+{"Name_Of_Disease": "Salmonella", "Type_Of_Microorganism": "Bacteria(S)", "Human_Only": "true", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Multi-state" }
+{"Name_Of_Disease": "Treated Seeds", "Type_Of_Microorganism": "Chemical Hazard", "Human_Only": "false", "Area_Of_Origin": "Sudan", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Psittacosis", "Type_Of_Microorganism": "_Chlamydophila psittaci_", "Human_Only": "false", "Area_Of_Origin": "unknown", "Type_Of_Outbreak": "outbreak"}
+{"Name_Of_Disease": "Bluetongue", "Type_Of_Microorganism": "Virus (BTV)", "Human_Only": "false", "Area_Of_Origin": "Europe", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Diphtheria", "Type_Of_Microorganism": "Bacteria (Corynebacterium diphtheriae)", "Human_Only": "true", "Area_Of_Origin": "Guinea", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease": "Tung Tree Seed Poisoning", "Type_Of_Microorganism": "Other (Tung Oil)", "Human_Only": "true", "Area_Of_Origin": "Taiwan", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease": "Malaria", "Type_Of_Microorganism": "Protozoa (P)", "Human_Only": "false", "Area_Of_Origin": "Venezuela", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Spraing", "Type_Of_Microorganism": "Virus (Pomovirus, Virgaviridae)", "Human_Only": "false", "Area_Of_Origin": "Europe", "Type_Of_Outbreak": "Epidemic" }
+{"Name_Of_Disease": "Clostridium Perfringens Food Poisoning", "Type_Of_Microorganism": "Bacteria (gram-positive, anaerobic)", "Human_Only": "false", "Area_Of_Origin": "Widespread in the environment and frequently occurs in the intestines of humans and many domestic and feral animals"}
+{"Name_Of_Disease": "MEASLES", "Type_Of_Microorganism": "VIRUS (MORBILLIVIRUS)", "Human_Only": "true", "Area_Of_Origin": "UNITED STATES (GEORGIA)", "Type_Of_Outbreak": "SINGLE"}
+{"Name_Of_Disease": "Foodborne Illness", "Type_Of_Microorganism": "Bacteria (Salmonella)", "Human_Only": "true", "Area_Of_Origin": "Nigeria", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Norovirus", "Type_Of_Microorganism": "Virus(No)", "Human_Only": "true", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Outbreak"}
+{"Name_Of_Disease": "Western Equine Encephalomyelitis", "Type_Of_Microorganism": "Virus(WEE)", "Human_Only": "true", "Area_Of_Origin": "Argentina", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Diphtheria", "Type_Of_Microorganism": "Bacteria (Corynebacterium diphtheriae)", "Human_Only": "true", "Area_Of_Origin": "Czech Republic", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Lassa fever", "Type_Of_Microorganism": "Virus (LASV)", "Human_Only": "false", "Area_Of_Origin": "West Africa", "Type_Of_Outbreak": "sporadic"}
+{"Name_Of_Disease" : "AVIAN INFLUENZA (H5N6)", "Type_Of_Microorganism" : "Virus(H5N6)", "Human_Only": "false", "Area_Of_Origin": "China", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus (Morbilivirus)", "Human_Only": "true", "Area_Of_Origin": "Nigeria", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Cryptosporidiosis", "Type_Of_Microorganism": "Protozoa (Cryptosporidium spp.)", "Human_Only": "true", "Area_Of_Origin": "Sweden", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Rabies", "Type_Of_Microorganism": "Virus (RABV)", "Human_Only": "true", "Area_Of_Origin": "Worldwide", "Type_Of_Outbreak": "Pandemic" }
+{"Name_Of_Disease": "Rabies", "Type_Of_Microorganism": "Virus (Rhabdovirus)", "Human_Only": "true", "Area_Of_Origin": "India (Jammu and Kashmir)", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Avian Influenza (H5N1, H5N6)", "Type_Of_Microorganism": "Virus(A)", "Human_Only": "false", "Area_Of_Origin": "South Korea", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Kyasanur Forest Disease (KFD)", "Type_Of_Microorganism": "Virus (KFDV)", "Human_Only": "false", "Area_Of_Origin": "India (Karnataka state)", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Tick-Borne Encephalitis (TBE)", "Type_Of_Microorganism": "Virus (Tick-Borne Encephalitis Virus, TBEV)", "Human_Only": "false", "Area_Of_Origin": "Finland", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease":"MPOX", "Type_Of_Microorganism":"Virus(Orthopoxvirus)", "Human_Only":"true", "Area_Of_Origin":"Israel", "Type_Of_Outbreak":"Limited"}
+{"Name_Of_Disease":"Foot-and-mouth disease (FMD)", "Type_Of_Microorganism":"Virus(O)", "Human_Only":false, "Area_Of_Origin": "Libya", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Dengue and Zika Fever", "Type_Of_Microorganism": "Virus (Flaviviridae)", "Human_Only": "true", "Area_Of_Origin": "Africa, specifically Mali", "Type_Of_Outbreak": "Multi-national"}
+{ "Name of Disease": "SARS-CoV-2", "Type of Microorganism": "Virus (RNA)", "Human Only": "false", "Area of Origin": "Mongolia", "Type of Outbreak": "Pandemic" }
+{"Name_Of_Disease": "Dengue", "Type_Of_Microorganism": "Virus (DEN-1, DEN-2, DEN-3 and DEN-4)", "Human_Only": "false", "Area_Of_Origin": "Bangladesh", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Malaria", "Type_Of_Microorganism": "Protozoa (Plasmodium spp.)", "Human_Only": "false", "Area_Of_Origin": "Africa and Asia", "Type_Of_Outbreak": "Eliminated"}
+{"Name_Of_Disease": "Whirling Disease", "Type_Of_Microorganism": "Protozoa (Myxobolus cerebralis)", "Human_Only": "false", "Area_Of_Origin": "British Columbia, Canada", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease":"Measles", "Type_Of_Microorganism":"Virus (Rubeola virus)", "Human_Only": "true", "Area_Of_Origin": "United States of America", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Campylobacteriosis", "Type_Of_Microorganism": "Bacteria(Campylobacter coli)", "Human_Only": "true", "Area_Of_Origin": "China", "Type_Of_Outbreak": "Waterborne" }
+{"Name_Of_Disease":"Trichophyton indotineae", "Type_Of_Microorganism":"Fungus", "Human_Only":"false", "Area_Of_Origin": "South Africa", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease":"Cholera, Diarrhea & Dysentery", "Type_Of_Microorganism":"Bacteria(Vibrio cholerae)", "Human_Only":"true", "Area_Of_Origin":"Zambia and Sudan", "Type_Of_Outbreak":"Multinational Pandemic"}
+{"Name_Of_Disease": "Malaria", "Type_Of_Microorganism": "Protozoa (Plasmodium spp.)", "Human_Only": "true", "Area_Of_Origin": "Tanzania", "Type_Of_Outbreak": "Resurgence" }
+{ "Name_Of_Disease": "Foot and Mouth Disease (FMD)", "Type_Of_Microorganism": "Virus(O)", "Human_Only": "false", "Area_Of_Origin": "Algeria", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease": "Coronavirus Disease 2019 (COVID-19)", "Type_Of_Microorganism": "Virus(SARS-CoV-2)", "Human_Only": "true", "Area_Of_Origin": " Wuhan, China", "Type_Of_Outbreak": "Pandemic"}
+{"Name_Of_Disease": "Influenza - Avian", "Type_Of_Microorganism": "Virus(H5N1 HPAI)", "Human_Only": "false", "Area_Of_Origin": "Japan", "Type_Of_Outbreak": "Confirmed" }
+{"Name_Of_Disease":"African Swine Fever (ASF)", "Type_Of_Microorganism":"Virus(E)", "Human_Only":"false", "Area_Of_Origin":"Mexico", "Type_Of_Outbreak": "Pandemic" }
+{"Name_Of_Disease":"African Swine Fever (ASF)", "Type_Of_Microorganism": "Virus(E)", "Human_Only": false, "Area_Of_Origin": "Cambodia", "Type_Of_Outbreak": "Pandemic"}
+{"Name_Of_Disease": "Scrub Typhus", "Type_Of_Microorganism": "_Orientia_ species", "Human_Only": "false", "Area_Of_Origin": "worldwide, particularly in the Asia-Pacific region", "Type_Of_Outbreak": "epidemic"}
+{"Name_Of_Disease": "Leptospirosis", "Type_Of_Microorganism": "Bacteria (Leptospira)", "Human_Only": "false", "Area_Of_Origin": "French Polynesia", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Zika", "Type_Of_Microorganism": "Virus(Flaviviridae)", "Human_Only": "false", "Area_Of_Origin": "South America and Africa", "Type_Of_Outbreak": "Pandemic"}
+{"Name_Of_Disease": "African Swine Fever (ASF)", "Type_Of_Microorganism": "Virus(E)", "Human_Only": "false", "Area_Of_Origin": "Mexico", "Type_Of_Outbreak": "Pandemic"}
+{"Name_Of_Disease": "Unknown", "Type_Of_Microorganism": "Unknown", "Human_Only": "false", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Localized"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus (Morbilivirus)", "Human_Only": "true", "Area_Of_Origin": "Malaysia (Sabah)", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease" : "Hantavirus", "Type_Of_Microorganism" : "Virus (Andes)", "Human_Only" : "true", "Area_Of_Origin" : "Chile", "Type_Of_Outbreak" : "Limited"}
+{"Name_Of_Disease": "Poliomyelitis", "Type_Of_Microorganism": "Virus (Poliovirus)", "Human_Only": "true", "Area_Of_Origin": "Africa", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Bovine Tuberculosis (BOVINE TUBERCULOSIS)", "Type_Of_Microorganism": "Bacteria(Mycobacterium bovis)", "Human_Only": "false", "Area_Of_Origin": "United States (Michigan)", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Syphilis", "Type_Of_Microorganism": "Bacteria (Treponema pallidum)", "Human_Only": "true", "Area_Of_Origin": "Canada", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Avian Influenza (H5N1)", "Type_Of_Microorganism": "Virus(H5N1)", "Human_Only": "false", "Area_Of_Origin": "Taiwan", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease":"Avian Influenza (H5N1)", "Type_Of_Microorganism":"Bacteria", "Human_Only":"false", "Area_Of_Origin":["China", "South Korea", "Japan"], "Type_Of_Outbreak":["Limited", "Sporadic", "Multinational", "National", "Pandemic"]}
+{"Name_Of_Disease": "Hantavirus", "Type_Of_Microorganism": "Virus(E)", "Human_Only": "false", "Area_Of_Origin": "Bolivia", "Type_Of_Outbreak": "Sporadic"}
+{"Name_Of_Disease": "Rabies", "Type_Of_Microorganism": "Virus (Rhabdovirus)", "Human_Only": "false", "Area_Of_Origin": "Sarawak, Malaysia", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Shigellosis", "Type_Of_Microorganism": "Bacteria(Shigella)", "Human_Only": "false", "Area_Of_Origin": "unspecified", "Type_Of_Outbreak": "endemic"}
+{"Name_Of_Disease":"Foot-and-Mouth Disease", "Type_Of_Microorganism":"Virus(FMDV)", "Human_Only":"false", "Area_Of_Origin":"Libya", "Type_Of_Outbreak":"Limited"}
+{"Name_Of_Disease":"Shigellosis", "Type_Of_Microorganism":"Bacteria(S)", "Human_Only":"true", "Area_Of_Origin": "worldwide", "Type_Of_Outbreak": "endemic"}
+{"Name_Of_Disease": "Hepatitis", "Type_Of_Microorganism": "Virus(C)", "Human_Only": "true", "Area_Of_Origin": "Kyrgyzstan", "Type_Of_Outbreak": "Sporadic"}
+{"Name_Of_Disease" : "African Swine Fever (ASF)", "Type_Of_Microorganism": "Virus(E)", "Human_Only" : false, "Area_Of_Origin" : "Mexico", "Type_Of_Outbreak" : "Pandemic"}
+{"Name_Of_Disease": "Western Equine Encephalitis (WEE)", "Type_Of_Microorganism": "Virus(E)", "Human_Only": "false", "Area_Of_Origin": "Argentina and Uruguay", "Type_Of_Outbreak": "Epidemic"}
+{ "Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus(M)", "Human_Only": "true", "Area_Of_Origin": "Worldwide", "Type_Of_Outbreak": "Epidemic" }
+{"Name_Of_Disease": "Unknown", "Type_Of_Microorganism": "Unidentified", "Human_Only": "true", "Area_Of_Origin": "Turkey", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease": "Hepatitis A", "Type_Of_Microorganism": "Virus(A)", "Human_Only": "true", "Area_Of_Origin": "USA (New Jersey)", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease" : "Norovirus", "Type_Of_Microorganism": "Virus (Norwalk virus)", "Human_Only": "true", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Polio", "Type_Of_Microorganism": "Virus(Poliovirus)", "Human_Only": "true", "Area_Of_Origin": "Indonesia", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease": "Salmonella", "Type_Of_Microorganism": "Bacteria (Salmonella enterica subsp. enterica serotype I 4,[14])", "Human_Only": "false", "Area_Of_Origin": "United States and Minnesota", "Type_Of_Outbreak": "Ongoing"}
+{"Name_Of_Disease": "MPOX", "Type_Of_Microorganism": "Virus(E)", "Human_Only": "false", "Area_Of_Origin": "Nigeria", "Type_Of_Outbreak": "Multinational" }
+{"Name_Of_Disease": "Zika Virus", "Type_Of_Microorganism": "Virus(F)", "Human_Only": "false", "Area_Of_Origin": "Thailand", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Cholera", "Type_Of_Microorganism": "Bacteria (Vibrio cholerae)", "Human_Only": "true", "Area_Of_Origin": "Africa (Sudan, Nigeria)", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus(M)", "Human_Only": "true", "Area_Of_Origin": "Canada", "Type_Of_Outbreak": "Limited" }
+{"Name_Of_Disease": "Malaria", "Type_Of_Microorganism": "Parasite (P. falciparum)", "Human_Only": "false", "Area_Of_Origin": "United States of America", "Type_Of_Outbreak": "Locally Acquired"}
+{"Name_Of_Disease": "Dengue", "Type_Of_Microorganism": "Virus (Aedes)", "Human_Only": "false", "Area_Of_Origin": "Bangladesh", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease":"_Anopheles stephensi_", "Type_Of_Microorganism":null, "Human_Only":false, "Area_Of_Origin":null, "Type_Of_Outbreak":null}
+{"Name_Of_Disease":"Unknown", "Type_Of_Microorganism":null, "Human_Only":false, "Area_Of_Origin":null, "Type_Of_Outbreak":null}
+{"Name_Of_Disease": "Foot-and-Mouth Disease (FMD)", "Type_Of_Microorganism": "Virus(O)", "Human_Only": "false", "Area_Of_Origin": "Algeria", "Type_Of_Outbreak": "National"}
+{"Name_Of_Disease":"Botulism", "Type_Of_Microorganism":"Bacteria (Clostridium botulinum)", "Human_Only":"false", "Area_Of_Origin": "USA", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Avian Influenza (H5 HPAI)", "Type_Of_Microorganism": "Bacteria", "Human_Only": "false", "Area_Of_Origin": "South Korea", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Glanders", "Type_Of_Microorganism": "Bacteria (Burkholderia mallei)", "Human_Only": "false", "Area_Of_Origin": "Iraq", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Hepatitis A", "Type_Of_Microorganism": "Virus (HAV)", "Human_Only": "true", "Area_Of_Origin": "Palestinian Authority, Gaza Strip", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus (Rubeola)", "Human_Only": "true", "Area_Of_Origin": "Israel", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease":"Undiagnosed deaths of bovine animals", "Type_Of_Microorganism":null,"Human_Only":false, "Area_Of_Origin": "India (Bathinda district)", "Type_Of_Outbreak": "epidemic"}
+{"Name_Of_Disease": "Chikungunya", "Type_Of_Microorganism": "Bacteria", "Human_Only": "true", "Area_Of_Origin": "Brazil", "Type_Of_Outbreak": "Limited"}
+{"Name_Of_Disease": "Salmonellosis", "Type_Of_Microorganism": "Bacteria (Salmonella enterica)", "Human_Only": "true", "Area_Of_Origin": "Chile", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease": "Taeniasis", "Type_Of_Microorganism": "Parasite (Taenia solium)", "Human_Only": "false", "Area_Of_Origin": "Mexico", "Type_Of_Outbreak": "Epidemic" }
+{"Name_Of_Disease": "Coronavirus disease 2019 (COVID-19)", "Type_Of_Microorganism": "Virus (SARS-CoV-2)", "Human_Only": "true", "Area_Of_Origin": "China", "Type_Of_Outbreak": "Pandemic"}
+{"Name_Of_Disease": "Q fever", "Type_Of_Microorganism": "Bacteria (Coxiella burnetii)", "Human_Only": "false", "Area_Of_Origin": "Global", "Type_Of_Outbreak": "Epidemic"}
+{"Name_Of_Disease":"COVID-19", "Type_Of_Microorganism":"Virus(E)", "Human_Only":"false", "Area_Of_Origin": "Global" , "Type_Of_Outbreak": "Pandemic" }
+{"Name_Of_Disease": "Pseudomonas Folliculitis", "Type_Of_Microorganism": "Bacteria (Pseudomonas aeruginosa)", "Human_Only": "true", "Area_Of_Origin": "United States", "Type_Of_Outbreak": "Outbreak"}
+{"Name_Of_Disease": "Blackleg and Soft Rot of Potato", "Type_Of_Microorganism": "Bacteria(Pectobacterium carotovorum subsp. actinidiae)", "Human_Only": "false", "Area_Of_Origin": "unknown", "Type_Of_Outbreak": "localized"}
+{"Name_Of_Disease": "Measles", "Type_Of_Microorganism": "Virus (MOR)", "Human_Only": "false", "Area_Of_Origin": "Missouri, United States", "Type_Of_Outbreak": "Outbreak"}
+{"Name_Of_Disease": "Meningitis", "Type_Of_Microorganism": "Bacteria (Neisseria meningitidis)", "Human_Only": "true", "Area_Of_Origin": "Nigeria", "Type_Of_Outbreak": "Multinational"}
+{"Name_Of_Disease" : "Anthrax", "Type_Of_Microorganism" : "_Bacillus anthracis_", "Human_Only" : "false", "Area_Of_Origin" : "Uganda", "Type_Of_Outbreak": "Epizootic"}

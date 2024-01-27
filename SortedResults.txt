@@ -1,0 +1,18 @@
+                    Name_Of_Disease                  Type_Of_Microorganism Human_Only           Area_Of_Origin Type_Of_Outbreak
+                         Diphtheria Bacteria (Corynebacterium diphtheriae)       true                  Nigeria    Multinational
+                        Lassa Fever               Bacteria (Rodenticulous)       true              West Africa    Multinational
+                          Norovirus                              Virus(No)       true            United States         Outbreak
+   Western Equine Encephalomyelitis                             Virus(WEE)       true                Argentina    Multinational
+                         Diphtheria Bacteria (Corynebacterium diphtheriae)       true           Czech Republic         Epidemic
+                  Cryptosporidiosis        Protozoa (Cryptosporidium spp.)       true                   Sweden    Multinational
+                             Rabies                           Virus (RABV)       true                Worldwide         Pandemic
+                            Measles                  Virus (Rubeola virus)       true United States of America         Epidemic
+Coronavirus Disease 2019 (COVID-19)                      Virus(SARS-CoV-2)       true             Wuhan, China         Pandemic
+                      Poliomyelitis                     Virus (Poliovirus)       true                   Africa    Multinational
+                            Measles                               Virus(M)       true                Worldwide         Epidemic
+                              Polio                      Virus(Poliovirus)       true                Indonesia         Epidemic
+                            Cholera             Bacteria (Vibrio cholerae)       true  Africa (Sudan, Nigeria)    Multinational
+                      Salmonellosis         Bacteria (Salmonella enterica)       true                    Chile    Multinational
+Coronavirus disease 2019 (COVID-19)                     Virus (SARS-CoV-2)       true                    China         Pandemic
+           Pseudomonas Folliculitis      Bacteria (Pseudomonas aeruginosa)       true            United States         Outbreak
+                         Meningitis      Bacteria (Neisseria meningitidis)       true                  Nigeria    Multinational
